@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "say"
-version = "1.2-1"
+version = "1.3-0"
 -- LuaDist source
 source = {
-  tag = "1.2-1",
+  tag = "1.3-0",
   url = "git://github.com/LuaDist-testing/say.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/downloads/Olivine-Labs/say/say-1.2.tar.gz",
---   dir = "say"
+--   url = "https://github.com/Olivine-Labs/say/archive/v1.3-0.tar.gz",
+--   dir = "say-1.3-0"
 -- }
 description = {
   summary = "Lua String Hashing/Indexing Library",
