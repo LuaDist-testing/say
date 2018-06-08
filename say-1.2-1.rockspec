@@ -1,15 +1,15 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "say"
-version = "1.1-1"
+version = "1.2-1"
 -- LuaDist source
 source = {
-  tag = "1.1-1",
+  tag = "1.2-1",
   url = "git://github.com/LuaDist-testing/say.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/downloads/Olivine-Labs/say/say-1.1.tar.gz",
+--   url = "https://github.com/downloads/Olivine-Labs/say/say-1.2.tar.gz",
 --   dir = "say"
 -- }
 description = {
